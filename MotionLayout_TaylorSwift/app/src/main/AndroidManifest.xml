@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MotionLayout">
         <activity
-            android:name=".Ex2"
+            android:name=".Screen01"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity
-            android:name=".Screen01"
+            android:name=".Ex2"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
